@@ -1,2 +1,2 @@
 # AirbnbBookings-DataAnalysis
-Analysing the data of Airbnb bookings, which contains over 49000 observations
+Performing Exploratory Data Analysis(EDA) on the data of Airbnb bookings, which contains over 49000 observations
